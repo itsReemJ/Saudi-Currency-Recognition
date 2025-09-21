@@ -33,7 +33,7 @@ def prepare_reference_data(dataset_path):
 
 
 if __name__ == "__main__":
-    dataset_path = r"C:\Users\IamRe\OneDrive\Desktop\Images Dataset"
+    dataset_path = r"Images Dataset"
     output_file = "descriptors.pkl"
 
     data = prepare_reference_data(dataset_path)
@@ -41,3 +41,4 @@ if __name__ == "__main__":
         pickle.dump(data, f)
 
     print(f"✅ Descriptors saved to {output_file}")
+
