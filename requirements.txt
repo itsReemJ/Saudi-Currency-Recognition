@@ -35,3 +35,6 @@ python prepare_descriptors.py
 ** Start the app:
 
 streamlit run app_demo.py
+
+
+Open the local Streamlit link in your browser and test with your camera.
