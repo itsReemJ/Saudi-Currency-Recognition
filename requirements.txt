@@ -1,13 +1,37 @@
-Python 3.9+
+** Libraries
 
-OpenCV
+- Python 3.9+
 
-Streamlit
+- OpenCV
 
-NumPy
+- Streamlit
 
-pandas
+- NumPy
 
-tqdm
+- pandas
 
-Pillow
+- tqdm
+
+- Pillow
+
+
+** Dataset
+
+1) Place your Saudi currency images inside a folder named Images Dataset/
+
+2) Run prepare_descriptors.py to generate the descriptors.pkl file
+
+
+** Running the Project
+
+Generate descriptors:
+
+python prepare_descriptors.py
+
+
+→ Creates descriptors.pkl
+
+
+** Start the app:
+
+streamlit run app_demo.py
