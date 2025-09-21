@@ -24,7 +24,7 @@ A real-time computer vision system to recognize Saudi currency notes and detect 
 
 ---
 
-##Installation
+## Installation
 Clone this repository and install dependencies:
 ```bash
 git clone https://github.com/itsReemJ/Saudi-Currency-Recognition.git
