@@ -18,6 +18,7 @@
 ** Dataset
 
 1) Place your Saudi currency images inside a folder named Images Dataset/
+Used Dataset: https://www.kaggle.com/datasets/gfbati/alfloos 
 
 2) Run prepare_descriptors.py to generate the descriptors.pkl file
 
@@ -38,3 +39,4 @@ streamlit run app_demo.py
 
 
 Open the local Streamlit link in your browser and test with your camera.
+
