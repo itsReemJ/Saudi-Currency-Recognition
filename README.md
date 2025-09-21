@@ -1,9 +1,11 @@
 # Saudi-Currency-Recognition
 Currency recognition system with counterfeit detection, built with Python, OpenCV, and Streamlit.
+<img width="715" height="340" alt="image" src="https://github.com/user-attachments/assets/3dda64bb-2a7f-4606-8173-23315badf2db" />
+
 
 # Saudi Currency Recognition & Fake Note Detection
 
-A real-time computer vision system to recognize Saudi currency notes and detect counterfeit ones.
+Saudi Currency Recognition is a real-time computer vision system designed to recognize Saudi currency notes and detect counterfeit ones. This project was developed as part of our Computer Vision course by Reem, Rimas,and Ibtihal.
 
 ---
 
@@ -19,4 +21,4 @@ A real-time computer vision system to recognize Saudi currency notes and detect 
 ## Files
 - `prepare_descriptors.py` → Extracts SIFT descriptors from dataset images and saves them in `descriptors.pkl`
 - `app_demo.py` → Streamlit app for real-time recognition
-- `requirements.txt` → List of required Python libraries
+- `requirements.txt` → List of required Python libraries, Dataset and steps to run the project
