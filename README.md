@@ -1,6 +1,8 @@
 # Saudi-Currency-Recognition
 Currency recognition system a computer vision project in my junior year focusing on counterfeit detection, built with Python, OpenCV, and Streamlit.
-<img width="715" height="340" alt="image" src="https://github.com/user-attachments/assets/3dda64bb-2a7f-4606-8173-23315badf2db" />
+
+<img width="691" height="385" alt="image" src="https://github.com/user-attachments/assets/af2dad24-5876-4709-9343-a9384be2a1e8" />
+
 
 
 # Saudi Currency Recognition & Fake Note Detection
